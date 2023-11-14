@@ -6,8 +6,6 @@ tratata
 text123124124
 ________
 
-FEATURE non fowrard test
-FEATURE 2
-
+the conflict text for main branch
 
 
