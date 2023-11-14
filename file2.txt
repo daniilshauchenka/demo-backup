@@ -12,6 +12,7 @@ the conflict text for main branch
 conflict text for FEATURE branch
 
 
-for tag only
+
+WIP or content to be saved
 
 
